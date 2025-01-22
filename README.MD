@@ -3,7 +3,7 @@
 This documentation outlines the structure and components of the Event Master IOS App implemented in Swift.
 
 ## Preview
-<video src='EventMasterDemo.mp4'></video>
+<video src='EventMasterDemo.mp4'/>
 
 ## Login/Signup features
 The `Authentication` system, including sign-up and login features, was developed using Firebase Authentication. The system also has requirements when it comes to validity of user's email and password including: correct email format, password has to be longer than 6 characters, no duplicate users or email allowed, etc.
