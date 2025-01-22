@@ -1,1 +1,1 @@
-# iOSNU24 Final Project Group 1 - EventMaster
+# Event Master IOS App
