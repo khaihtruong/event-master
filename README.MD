@@ -14,7 +14,8 @@ The `Authentication` system, including sign-up and login features, was developed
 From the `homepage` you can view event's name, type of event and address. You can also create a new event by clicking on the plus sign at the bottom right corner
 
 ## Event
-Event can be created using pre-defined field. Once created, user can view event details including name, capacity as well as address directly on Google map that has been implemented into the app (more on this features can be found <a href="https://swift-map.gitbook.io/swift-map">here</a>)
+`Event` can be created using pre-defined field. Once created, user can view event details including name, capacity as well as address directly on Google map that has been implemented into the app (more on this features can be found <a href="https://swift-map.gitbook.io/swift-map">here</a>).
+From the event detail, user can also view and interact with other users by commenting and reacting to other users' comments. 
 
 ## Profile
-Once created, user will have the flexibility to update their bio as well as profile picture. Log in session will be saved unless user log out from the profile screen.
+Once created, user will have the flexibility to update their bio, location as well as profile picture. Log in session will be saved unless user log out from the profile screen.
