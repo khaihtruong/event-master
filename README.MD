@@ -11,3 +11,7 @@ The `Authentication` system, including sign-up and login features, was developed
 `Login` session will also be saved. Meaning once a user log in, even after closing the app, the user will still stay logging in. 
 
 ## Homepage
+From the `homepage` you can view event's name, type of event and address. You can also create a new event by clicking on the plus sign at the bottom right corner
+
+## Event
+Event can be created using pre-defined field. Once created, user can view event details including name, capacity as well as address directly on Google map that has been implemented into the app (more on this features can be found here: https://swift-map.gitbook.io/swift-map)
